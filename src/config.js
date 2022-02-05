@@ -16,7 +16,7 @@ module.exports = {
         dribbble: '',
         behance: '',
         medium: '',
-        devto: 'arifszn',
+        devto: 'sujanakamasany',
         website: 'https://sujana-kamasany.github.io',
         phone: '',
         email: 'sujanakamasany@gmail.com'
@@ -25,7 +25,7 @@ module.exports = {
         'Python',
         'HTML',
         'CSS',
-        'C Programming '
+        'C Programming',
         'MySQL',
         'Git',
     ],
@@ -41,7 +41,7 @@ module.exports = {
             position: 'Contributor ',
             from: 'August 2021',
             to: 'December 2021'
-        },
+        }
       
     ],
     education: [
@@ -50,7 +50,7 @@ module.exports = {
             degree: 'Bachelor of Technology in computer science ',
             from: '2019',
             to: '2023'
-        },
+        }
         
     ],
     blog: {
@@ -62,6 +62,10 @@ module.exports = {
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
         id: '' // Please remove this and use your own tag id or keep it empty
+    },
+    hotjar: {
+        id: '', //  Please remove this and use your own id or keep it empty
+        snippetVersion : 6
     },
     themeConfig: {
         default: 'light',
