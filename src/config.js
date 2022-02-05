@@ -50,7 +50,7 @@ module.exports = {
             degree: 'Bachelor of Technology in computer science ',
             from: '2019',
             to: '2023'
-        }
+        },
         
     ],
     blog: {
