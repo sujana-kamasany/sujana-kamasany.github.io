@@ -15,7 +15,7 @@ module.exports = {
         facebook: '',
         dribbble: '',
         behance: '',
-        medium: '',
+        medium: '@sujana-kamasany',
         devto: 'sujanakamasany',
         website: 'https://sujana-kamasany.github.io',
         phone: '',
@@ -25,6 +25,7 @@ module.exports = {
         'Python',
         'HTML',
         'CSS',
+        'JavaScript ',
         'C Programming',
         'MySQL',
         'Git',
@@ -41,6 +42,48 @@ module.exports = {
             position: 'Contributor ',
             from: 'August 2021',
             to: 'December 2021'
+        },
+         { 
+            company: 'Script winter of code',
+            position: 'Mentor ',
+            from: 'December 2021',
+            to: 'January 2022'
+        },
+         { 
+            company: 'G Studio ',
+            position: 'Vice President ',
+            from: 'November 2020',
+            to: 'November 2021'
+        },
+         { 
+            company: 'Microsoft ',
+            position: 'Azure Developer League ',
+            from: 'May 2021',
+            to: 'June 2021'
+        },
+         { 
+            company: 'GUSAC',
+            position: 'Graphic Lead ',
+            from: 'September 2020',
+            to: 'September 2021'
+        },
+         { 
+            company: 'GirlUp UNO',
+            position: 'Content Writer ',
+            from: 'September 2021',
+            to: 'January 2022'
+        },
+         { 
+            company: 'EduHub Community ',
+            position: 'Campus Lead',
+            from: 'August 2021',
+            to: 'January 2022'
+        },
+         { 
+            company: 'MichiSpolight',
+            position: 'Team Friends of Figma',
+            from: 'October 2021',
+            to: 'Present'
         }
       
     ],
